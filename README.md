@@ -1,4 +1,4 @@
-﻿# Document Classification Using OCR and Machine Learning
+# Document Classification Using OCR and Machine Learning
 
 ## 1. Project Overview & Objective
 An advanced, production-grade PDF document classification system with a modern **React 18 + Three.js 3D Web Interface**, supported by a robust **FastAPI backend** and **Scikit-Learn Machine Learning Pipeline**.
